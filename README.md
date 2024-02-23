@@ -1,2 +1,2 @@
-# ChatBot-Projedt
+# ChatBot-Project
 Samsung ChatBot Q&amp;A
