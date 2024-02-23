@@ -9,8 +9,8 @@ import streamlit as st
 
 lemmatizer = nltk.stem.WordNetLemmatizer()
 nltk.download('stopwords')
- nltk.download('punkt')
- nltk.download('wordnet')
+nltk.download('punkt')
+nltk.download('wordnet')
 
 data = pd.read_csv('Samsung Dialog.txt', sep = ':', header = None)
 
